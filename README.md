@@ -6,10 +6,9 @@ This project adapts [Tetracorder](https://github.com/PSI-edu/spectroscopy-tetrac
 
 ## Demo
 
-<video controls width="100%" autoplay muted loop>
-  <source src="./SpectralViewer-Tanager-Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![App preview](./App_view.png)](./SpectralViewer-Tanager-Demo.mp4)
+
+Watch the demo video: [SpectralViewer-Tanager-Demo.mp4](./SpectralViewer-Tanager-Demo.mp4)
 
 ## Overview
 
